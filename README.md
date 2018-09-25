@@ -8,6 +8,9 @@ Ano de eleição sempre existe aquele político que só aparece de 4 em 4 anos, 
  
 ## AUTORES
 ABRAAO VITOR
+
 DANIEL HENRIQUE
+
 HENRIQUE DAVID
+
 NOÉ FERNANDES
